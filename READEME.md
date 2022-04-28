@@ -1,0 +1,1 @@
+Simple utilisation de IntersectionObserver pour la gestion des évènements de scroll.
